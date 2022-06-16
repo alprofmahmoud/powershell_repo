@@ -2,7 +2,7 @@
 this is special repository of trainning Powershell
 
 # 2- C_plusplus_repo
-this is special repository of trainning C++
+> this is special repository of trainning C++
 
   ##### gcc is compiler __C__
   ##### g++ is compiler **C++**
