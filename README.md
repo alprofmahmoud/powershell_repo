@@ -7,8 +7,9 @@
 > ##### gcc is compiler ___C___
 > ##### g++ is compiler ***C++***
 
-  " ; " = Semicolon
-  " \ " = Backslash
-  " / " = Slash
-  " , " = Comma
+  " ; " = Semicolon.
+  " \ " = Backslash.
+  " / " = Slash.
+  " , " = Comma.
   At the command prompt, type `nano`.
+  At the command prompt, type ``nano``.
