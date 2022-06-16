@@ -7,7 +7,7 @@ this is special repository of trainning C++
   ##### gcc is compiler __C__
   ##### g++ is compiler **C++**
 
-  " ; " = Semicolon
+  ***" ; " = Semicolon***
   " \ " = Backslash
   " / " = Slash
   " , " = Comma
