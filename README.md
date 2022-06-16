@@ -4,8 +4,8 @@
 # 2- C_plusplus_repo
 > > this is special repository of trainning C++
 >
-> ##### gcc is compiler ___C___
-> ##### g++ is compiler ***C++***
+> - gcc is compiler ___C___
+> - g++ is compiler ***C++***
 
 -  " ; " = Semicolon.
 -  " \ " = Backslash.
