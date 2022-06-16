@@ -11,3 +11,4 @@
   " \ " = Backslash
   " / " = Slash
   " , " = Comma
+  At the command prompt, type `nano`.
