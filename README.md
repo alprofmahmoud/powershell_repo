@@ -5,7 +5,7 @@ this is special repository of trainning Powershell
 this is special repository of trainning C++
 
   ##### gcc is compiler **C
-  ##### g++ is compiler **C++
+  ##### g++ is compiler **C++**
 
   " ; " = Semicolon
   " \ " = Backslash
