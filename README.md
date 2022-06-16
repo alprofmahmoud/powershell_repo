@@ -11,7 +11,3 @@
 -  " \ " = Backslash.
 -  " / " = Slash.
 -  " , " = Comma.
--  At the command prompt, type `nano`.
--  At the command prompt, type ``nano``.
-<https://www.markdownguide.org>
-<fake@example.com>
