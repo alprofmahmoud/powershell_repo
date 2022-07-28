@@ -11,3 +11,7 @@
 -  " \ " = Backslash.
 -  " / " = Slash.
 -  " , " = Comma.
+-  " & " = Ampersand.
+-  " | " = Vertical bar in Computing is Pipe .
+-  " {} " = curly brackets.
+-  " [] " = square brackets.

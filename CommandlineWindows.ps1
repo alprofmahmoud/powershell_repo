@@ -43,6 +43,48 @@ Get-Commend -Verb nameVerb  -Noun NameNoun
 Set-Alias np 'c:\windows.notepad.exe'			              #set alias in powershell this sesion powershell 
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+# Powershell Touterial from Touterialpoint.com
+# powershell ISE = Integrated Scripting Enviromnent
+
+Get-Help Get-Help
+New-Item -Path fileName -ItemType Type
+
+Copy-Item sourcePath destinationPath
+Copy-Item sourcePath -Destination destinationPath
+Copy-Item -Filter filterText -Path sourcePath -Destination destinationPath
+
+Remove-Item fileName
+Remove-Item fileName -Recurse                           # if directory is not empty . it well delete the item
+
+Move-Item sourcePath destinationPath
+Move-Item fileName fileName
+
+Rename-Item dirName newDirName
+Rename-Item fileName newfileName
+
+Get-content fileName                                    # cmdlet is used to retrieve content of a file as an array
+
+Test-Path dirName                                       # cmdlet is used to check existence of a folder 
+Test-Path dirName                                       # cmdlet is used to check existence of a file 
+
+Get-Date                                                # cmdlet is used to get System Date
+Get-Date -DisplayHint {Date | Time | DateTime}
+Set-Date -Date 'M D Y'
+
+Set-Content -Path fileName -Value 'value'
+Clear-Content -Path fileName                            # cmdlet can be used to erase content of a txt file
+Add-Content -Path fileName -value 'value'               # cmdlet can be used to append content of a any file
+
+# Advanced cmdlets
+
+Measure-Object -character -line -word
+# cmdlet can be used to get the properties of the passed output.
+Compare-Object 
+Where-Object 
+# cmdlet can be use to Select objects  having particular property values from the collection of objects that are passed to it.
+ForEach-Object 
+# cmdlet can be used to perform operations on each object of a collection of objects.
+
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 # 		++ Enad Section ++
